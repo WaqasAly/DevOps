@@ -1,0 +1,3 @@
+**What is DevOps Culture?**
+
+DevOps culture is a set of values, principles, and practices that promote collaboration, communication, and continuous delivery in development team and operations team. It emphasizes the importance of breaking down wall between teams, automating processes, and continuously monitoring and improving performance. This helps companies to align their people, processes, and tools towards customer requirements. By promoting cross-functional teams that work together throughout the entire software development lifecycle, from planning and coding to testing, deployment, and monitoring, DevOps culture seeks to improve the speed, quality, and reliability of software delivery.
