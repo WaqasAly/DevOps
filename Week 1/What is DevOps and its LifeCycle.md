@@ -1,8 +1,8 @@
-**What is DevOps?**
+### What is DevOps?
 
 DevOps is a set of practices that combines the work of two teams: development team (Dev) and operation team (Ops). These two teams usually work separately, which is not always efficient. If they implement the DevOps strategy and start to collaborate, they can build, test and release software much faster and safer. By removing the gap between both teams, DevOps promotes a culture of shared responsibility and accountability for the delivery and performance of software applications. DevOps shorten the **software development life cycle** and provide continuous delivery with high software quality.
 
-**What is Software Development Life Cycle?**
+### What is Software Development Life Cycle?
 
 DevOps Software Development Lifecycle is a methodology that both teams use to bring products to market more quickly and efficiently.
 
