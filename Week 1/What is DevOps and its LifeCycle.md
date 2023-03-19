@@ -6,6 +6,8 @@ DevOps is a set of practices that combines the work of two teams: development te
 
 DevOps Software Development Lifecycle is a methodology that both teams use to bring products to market more quickly and efficiently.
 
+![](https://github.com/WaqasAly/DevOps/blob/main/Images/DevOps-lifecycle-capabilities-1024x621.png)
+
 It consists of the following phases:
 
 **Plan:** This phase involves defining the requirements, goals keeping in mind the application objectives that need to be deliver to customer and creating a roadmap for the project.
